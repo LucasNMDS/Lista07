@@ -4,5 +4,5 @@
 /**
  * 
  */
-module LP3Lista24 {
+module LP3Aula7 {
 }
